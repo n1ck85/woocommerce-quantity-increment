@@ -5,7 +5,7 @@ Plugin URI:
 Description: A plugin to allow custom quantity incrememnts per product
 Version: 1.0
 Author: Nick Bibby
-Author URI: https://paramountdigital.co.uk
+Author URI: https://nickbibby.me
 License: GPL3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 Text Domain: woocommerce-qi
